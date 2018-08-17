@@ -1,0 +1,8 @@
+export LD_LIBRARY_PATH=$(realpath "./linux/software/bundler/bin")
+
+ldd /home/latty/Prog/__PHOTOGRAMMETRY__/photogrammetry/linux/software/bundler/bin/bundler
+sudo ln -s /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3 /usr/lib/x86_64-linux-gnu/liblapack.so.3gf
+
+ldd /home/latty/Prog/__PHOTOGRAMMETRY__/photogrammetry/linux/software/pmvs/bin/pmvs2
+sudo apt install libgsl-dev
+sudo ln -s /usr/lib/x86_64-linux-gnu/libgsl.so /usr/lib/x86_64-linux-gnu/libgsl.so.0

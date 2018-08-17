@@ -56,3 +56,4 @@ LINKS
 
 http://opensourcephotogrammetry.blogspot.com/2010/09/python-photogrammetry-toolbox.html
 http://code.google.com/p/osm-bundler/w/list
+https://www.youtube.com/watch?v=-EJsEIIzz1s
